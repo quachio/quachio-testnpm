@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/quachio/quachio-testnpm/issues"
   },
-  "homepage": "https://github.com/quachio/quachio-testnpm#readme"
+  "homepage": "https://github.com/quachio/quachio-testnpm#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
