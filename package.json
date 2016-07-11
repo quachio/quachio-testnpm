@@ -1,0 +1,24 @@
+{
+  "name": "quachio-testnpm",
+  "version": "1.0.0",
+  "description": "NPM DEMO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quachio/quachio-testnpm.git"
+  },
+  "keywords": [
+    "NPM",
+    "demo",
+    "quachio"
+  ],
+  "author": "Hung Quach <quachio@icloud.com> (http://quachio.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quachio/quachio-testnpm/issues"
+  },
+  "homepage": "https://github.com/quachio/quachio-testnpm#readme"
+}
